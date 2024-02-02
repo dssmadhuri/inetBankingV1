@@ -1,0 +1,26 @@
+2024-02-01 18:25:05,112  INFO [main] ebanking:15 - url is opened
+ 2024-02-01 18:25:05,154  INFO [main] ebanking:17 - username input
+ 2024-02-01 18:25:05,316  INFO [main] ebanking:20 - password input
+ 2024-02-01 18:25:05,402  INFO [main] ebanking:22 - submit click
+ 2024-02-01 18:25:06,051  INFO [main] ebanking:27 - check for title with assertion
+ 2024-02-01 18:25:43,480  INFO [main] ebanking:15 - url is opened
+ 2024-02-01 18:25:43,507  INFO [main] ebanking:17 - username input
+ 2024-02-01 18:25:43,618  INFO [main] ebanking:20 - password input
+ 2024-02-01 18:25:43,646  INFO [main] ebanking:22 - submit click
+ 2024-02-01 18:25:44,219  INFO [main] ebanking:27 - check for title with assertion
+ 2024-02-01 18:29:47,180  INFO [main] ebanking:15 - url is opened
+ 2024-02-01 18:29:47,198  INFO [main] ebanking:17 - username input
+ 2024-02-01 18:29:47,285  INFO [main] ebanking:20 - password input
+ 2024-02-01 18:29:47,324  INFO [main] ebanking:22 - submit click
+ 2024-02-01 18:29:47,745 ERROR [main] ebanking:27 - check for title with assertion
+ 2024-02-01 18:38:29,430  INFO [main] ebanking:15 - url is opened
+ 2024-02-01 18:38:29,450  INFO [main] ebanking:17 - username input
+ 2024-02-01 18:38:29,534  INFO [main] ebanking:20 - password input
+ 2024-02-01 18:38:29,557  INFO [main] ebanking:22 - submit click
+ 2024-02-01 18:38:30,067 ERROR [main] ebanking:27 - check for title with assertion
+ 2024-02-01 18:43:50,183  INFO [main] ebanking:15 - url is opened
+ 2024-02-01 18:43:50,196  INFO [main] ebanking:17 - username input
+ 2024-02-01 18:43:50,279  INFO [main] ebanking:20 - password input
+ 2024-02-01 18:43:50,303 DEBUG [main] ebanking:22 - submit click
+ 2024-02-01 18:43:50,718 DEBUG [main] ebanking:27 - check for title with assertion
+ 
