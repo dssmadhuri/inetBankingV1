@@ -23,4 +23,9 @@
  2024-02-01 18:43:50,279  INFO [main] ebanking:20 - password input
  2024-02-01 18:43:50,303 DEBUG [main] ebanking:22 - submit click
  2024-02-01 18:43:50,718 DEBUG [main] ebanking:27 - check for title with assertion
+ 2024-02-03 09:28:00,517  INFO [main] ebanking:15 - url is opened
+ 2024-02-03 09:28:00,536  INFO [main] ebanking:17 - username input
+ 2024-02-03 09:28:00,642  INFO [main] ebanking:20 - password input
+ 2024-02-03 09:28:00,664 DEBUG [main] ebanking:22 - submit click
+ 2024-02-03 09:28:01,083 DEBUG [main] ebanking:27 - check for title with assertion
  
